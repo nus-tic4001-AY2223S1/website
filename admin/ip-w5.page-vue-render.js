@@ -23,7 +23,7 @@ with(this){return _c('ul',[_c('li',[_v("Merge the PR using GitHub. Note how to m
 with(this){return _c('ul',[_c('li',[_v("Pull the "),_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("master")]),_v(" branch from the fork to your local repo.")])])}
 },function anonymous(
 ) {
-with(this){return _c('span',{staticClass:"badge rounded-pill bg-warning text-dark"},[_c('span',{staticClass:"fas fa-lightbulb",attrs:{"aria-hidden":"true"}})])}
+with(this){return _c('span',{staticClass:"badge rounded-pill bg-success text-white"},[_c('span',{staticClass:"fas fa-lightbulb",attrs:{"aria-hidden":"true"}})])}
 },function anonymous(
 ) {
 with(this){return _c('div',[_c('div',{attrs:{"tags":"m--cs2113 m--tic4001"}},[_c('ul',[_c('li',[_v("In case this increment does not require any code changes, you may tag the commit at which this was achieved as "),_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("A-Jar")]),_v(" (even if that commit has another tag already).")]),_v(" "),_c('li',[_v("Upload the jar file to your fork as explained in the panel below.")])])])])}
@@ -32,6 +32,6 @@ with(this){return _c('div',[_c('div',{attrs:{"tags":"m--cs2113 m--tic4001"}},[_c
 with(this){return _c('p',[_c('span',{staticClass:"float-start algolia-no-index"},[_c('a',{staticClass:"badge bg-light text-dark",attrs:{"href":"/website/admin/ip-w4.html"}},[_c('span',[_c('span',{staticClass:"far fa-arrow-alt-circle-left",attrs:{"aria-hidden":"true"}}),_v(" iP: Week 4")])])]),_c('span',{staticClass:"float-end algolia-no-index"},[_c('a',{staticClass:"badge bg-light text-dark",attrs:{"href":"/website/admin/ip-w6.html"}},[_c('span',[_v("iP: Week 6 "),_c('span',{staticClass:"far fa-arrow-alt-circle-right",attrs:{"aria-hidden":"true"}})])])])])}
 },function anonymous(
 ) {
-with(this){return _c('footer',[_c('div',{staticClass:"text-center"},[_c('small',[_v("["),_c('span',[_c('strong',[_v("Powered by")])]),_v(" "),_c('img',{attrs:{"src":"https://markbind.org/favicon.ico","width":"30"}}),_v(" "),_c('a',{attrs:{"href":"https://markbind.org/"}},[_v("MarkBind 4.0.1")]),_v(", generated on Sat, 20 Aug 2022, 0:03:48 GMT+8]")])])])}
+with(this){return _c('footer',[_c('div',{staticClass:"text-center"},[_c('small',[_v("["),_c('span',[_c('strong',[_v("Powered by")])]),_v(" "),_c('img',{attrs:{"src":"https://markbind.org/favicon.ico","width":"30"}}),_v(" "),_c('a',{attrs:{"href":"https://markbind.org/"}},[_v("MarkBind 4.0.1")]),_v(", generated on Wed, 24 Aug 2022, 21:54:30 GMT+8]")])])])}
 }];
   
