@@ -29,6 +29,6 @@ with(this){return _c('h1',{attrs:{"id":"lecture-2-fri-nov-11th"}},[_c('span',{st
 with(this){return _c('ul',[_c('li',[_v("No formal lecture but instructors are available for consultation. Use this slot to work on the project.")])])}
 },function anonymous(
 ) {
-with(this){return _c('footer',[_c('div',{staticClass:"text-center"},[_c('small',[_v("["),_c('span',[_c('strong',[_v("Powered by")])]),_v(" "),_c('img',{attrs:{"src":"https://markbind.org/favicon.ico","width":"30"}}),_v(" "),_c('a',{attrs:{"href":"https://markbind.org/"}},[_v("MarkBind 4.0.2")]),_v(", generated on Fri, 28 Oct 2022, 19:59:38 GMT+8]")])])])}
+with(this){return _c('footer',[_c('div',{staticClass:"text-center"},[_c('small',[_v("["),_c('span',[_c('strong',[_v("Powered by")])]),_v(" "),_c('img',{attrs:{"src":"https://markbind.org/favicon.ico","width":"30"}}),_v(" "),_c('a',{attrs:{"href":"https://markbind.org/"}},[_v("MarkBind 4.0.2")]),_v(", generated on Fri, 28 Oct 2022, 20:24:57 GMT+8]")])])])}
 }];
   

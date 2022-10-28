@@ -29,6 +29,6 @@ with(this){return _c('p',[_c('strong',[_v("Admin:")])])}
 with(this){return _c('div',[_c('p',[_c('strong',[_v("tP:")])]),_v(" "),_c('div',[_c('ol',[_c('li',[_c('span',[_c('span',{staticClass:"dimmed"},[_c('span',[_c('span',{staticClass:"fas fa-user",attrs:{"aria-hidden":"true"}})]),_v(" Ensure you know tP expectations")])])]),_v(" "),_c('li',[_c('span',[_c('span',[_c('span',{staticClass:"fas fa-user",attrs:{"aria-hidden":"true"}})]),_v(" Start implementing v1.0")])]),_v(" "),_c('li',[_c('span',[_c('span',[_c('span',{staticClass:"fas fa-users",attrs:{"aria-hidden":"true"}})]),_v(" Use GitHub to manage milestones")])]),_v(" "),_c('li',[_c('span',[_c('span',[_c('span',{staticClass:"fas fa-user",attrs:{"aria-hidden":"true"}})]),_v(" Add some JUnit Tests")])])])])])}
 },function anonymous(
 ) {
-with(this){return _c('footer',[_c('div',{staticClass:"text-center"},[_c('small',[_v("["),_c('span',[_c('strong',[_v("Powered by")])]),_v(" "),_c('img',{attrs:{"src":"https://markbind.org/favicon.ico","width":"30"}}),_v(" "),_c('a',{attrs:{"href":"https://markbind.org/"}},[_v("MarkBind 4.0.2")]),_v(", generated on Fri, 28 Oct 2022, 19:59:38 GMT+8]")])])])}
+with(this){return _c('footer',[_c('div',{staticClass:"text-center"},[_c('small',[_v("["),_c('span',[_c('strong',[_v("Powered by")])]),_v(" "),_c('img',{attrs:{"src":"https://markbind.org/favicon.ico","width":"30"}}),_v(" "),_c('a',{attrs:{"href":"https://markbind.org/"}},[_v("MarkBind 4.0.2")]),_v(", generated on Fri, 28 Oct 2022, 20:24:57 GMT+8]")])])])}
 }];
   

@@ -182,6 +182,6 @@ with(this){return _c('h4',{attrs:{"id":"pe-phase-4-tutor-moderation-2"}},[_c('sp
 with(this){return _c('ul',[_c('li',[_v("In this phase tutors will look through all dev responses you objected to in the previous phase and decide on a final outcome.")]),_v(" "),_c('li',[_v("In the unlikely case we need your inputs, a tutor will contact you.")])])}
 },function anonymous(
 ) {
-with(this){return _c('footer',[_c('div',{staticClass:"text-center"},[_c('small',[_v("["),_c('span',[_c('strong',[_v("Powered by")])]),_v(" "),_c('img',{attrs:{"src":"https://markbind.org/favicon.ico","width":"30"}}),_v(" "),_c('a',{attrs:{"href":"https://markbind.org/"}},[_v("MarkBind 4.0.2")]),_v(", generated on Fri, 28 Oct 2022, 19:59:38 GMT+8]")])])])}
+with(this){return _c('footer',[_c('div',{staticClass:"text-center"},[_c('small',[_v("["),_c('span',[_c('strong',[_v("Powered by")])]),_v(" "),_c('img',{attrs:{"src":"https://markbind.org/favicon.ico","width":"30"}}),_v(" "),_c('a',{attrs:{"href":"https://markbind.org/"}},[_v("MarkBind 4.0.2")]),_v(", generated on Fri, 28 Oct 2022, 20:24:57 GMT+8]")])])])}
 }];
   

@@ -14,6 +14,6 @@ with(this){return _c('h1',{attrs:{"id":"week-1-mon-aug-8th-lecture"}},[_c('span'
 with(this){return _c('div',[_c('p',[_v("Our first lecture will be on Fri, Aug 12th "),_c('strong',[_v("7.00pm")]),_v(" onwards.")])])}
 },function anonymous(
 ) {
-with(this){return _c('footer',[_c('div',{staticClass:"text-center"},[_c('small',[_v("["),_c('span',[_c('strong',[_v("Powered by")])]),_v(" "),_c('img',{attrs:{"src":"https://markbind.org/favicon.ico","width":"30"}}),_v(" "),_c('a',{attrs:{"href":"https://markbind.org/"}},[_v("MarkBind 4.0.2")]),_v(", generated on Fri, 28 Oct 2022, 19:59:38 GMT+8]")])])])}
+with(this){return _c('footer',[_c('div',{staticClass:"text-center"},[_c('small',[_v("["),_c('span',[_c('strong',[_v("Powered by")])]),_v(" "),_c('img',{attrs:{"src":"https://markbind.org/favicon.ico","width":"30"}}),_v(" "),_c('a',{attrs:{"href":"https://markbind.org/"}},[_v("MarkBind 4.0.2")]),_v(", generated on Fri, 28 Oct 2022, 20:24:57 GMT+8]")])])])}
 }];
   

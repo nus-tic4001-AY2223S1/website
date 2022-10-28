@@ -20,9 +20,9 @@ with(this){return _c('ul',[_c('li',[_c('p',[_v("["),_c('a',{attrs:{"href":"/webs
 with(this){return _c('p',[_c('strong',[_v("Admin:")])])}
 },function anonymous(
 ) {
-with(this){return _c('div',[_c('p',[_c('strong',[_v("tP:")])]),_v(" "),_c('div',[_c('ol',[_c('li',[_c('span',[_c('span',[_c('span',{staticClass:"fas fa-user",attrs:{"aria-hidden":"true"}})]),_v(" Update the DG with design details")]),_v(" "),_c('span',{staticClass:"badge bg-danger  font-weight-normal"},[_c('span',[_c('span',{staticClass:"far fa-clock",attrs:{"aria-hidden":"true"}}),_v(" IMPORTANT")])])]),_v(" "),_c('li',[_c('span',[_c('span',[_c('span',{staticClass:"fas fa-user",attrs:{"aria-hidden":"true"}})]),_v(" Draft the PPP")])]),_v(" "),_c('li',[_c('span',[_c('span',[_c('span',{staticClass:"fas fa-users",attrs:{"aria-hidden":"true"}})]),_v(" Double-check RepoSense compatibility")])])])])])}
+with(this){return _c('div',[_c('p',[_c('strong',[_v("tP:")])]),_v(" "),_c('div',[_c('ol',[_c('li',[_c('span',[_c('span',[_c('span',{staticClass:"fas fa-user",attrs:{"aria-hidden":"true"}})]),_v(" Update the DG with design details")]),_v(" "),_c('span',{staticClass:"badge bg-danger  font-weight-normal"},[_c('span',[_c('span',{staticClass:"far fa-clock",attrs:{"aria-hidden":"true"}}),_v(" IMPORTANT")])])]),_v(" "),_c('li',[_c('span',[_c('span',[_c('span',{staticClass:"fas fa-users",attrs:{"aria-hidden":"true"}})]),_v(" Double-check RepoSense compatibility")])])])])])}
 },function anonymous(
 ) {
-with(this){return _c('footer',[_c('div',{staticClass:"text-center"},[_c('small',[_v("["),_c('span',[_c('strong',[_v("Powered by")])]),_v(" "),_c('img',{attrs:{"src":"https://markbind.org/favicon.ico","width":"30"}}),_v(" "),_c('a',{attrs:{"href":"https://markbind.org/"}},[_v("MarkBind 4.0.2")]),_v(", generated on Fri, 28 Oct 2022, 19:59:38 GMT+8]")])])])}
+with(this){return _c('footer',[_c('div',{staticClass:"text-center"},[_c('small',[_v("["),_c('span',[_c('strong',[_v("Powered by")])]),_v(" "),_c('img',{attrs:{"src":"https://markbind.org/favicon.ico","width":"30"}}),_v(" "),_c('a',{attrs:{"href":"https://markbind.org/"}},[_v("MarkBind 4.0.2")]),_v(", generated on Fri, 28 Oct 2022, 20:24:57 GMT+8]")])])])}
 }];
   
